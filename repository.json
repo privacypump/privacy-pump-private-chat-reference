@@ -1,0 +1,8 @@
+{
+  "name": "privacy-pump-private-chat-reference",
+  "description": "Reference end-to-end encrypted vault chat over Waku/Logos-compatible transport.",
+  "maturity": "Reference architecture",
+  "network": "Local mocks and public transport research",
+  "topics": ["privacy-pump", "waku", "logos", "privacy", "cryptography"],
+  "visibility": "public-after-verification"
+}
